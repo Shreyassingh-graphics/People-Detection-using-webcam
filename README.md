@@ -23,7 +23,7 @@ pip install torch opencv-python pandas
 Installation
 
 Clone or download the repository:
-git clone https://github.com/your-username/PeopleCount.git
+git clone [https://github.com/Shreyassingh-graphics/People-Detection-using-webcam]
 cd PeopleCount
 Install dependencies:
 pip install -r requirements.txt
